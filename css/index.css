@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#logo {
+  font-family: "Coiny", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  padding: 15px;
+}
+
+#encabezado {
+  display: flex;
+  text-align: center;
+}
